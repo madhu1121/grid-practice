@@ -1,0 +1,33 @@
+header{
+    height: 20px;
+    width: auto;
+    background-color: cornflowerblue;
+}
+
+#id1{
+    height: 25vh;
+    background-color: aqua;
+    color: blue;
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 25vh;
+}
+
+#id2{
+    height: 50vh;
+    background-color:white;
+    color: grey;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 50vh;
+}
+
+#id3{
+    height: 25vh;
+    background-color: rgb(100, 128, 0);
+    color: green;
+    text-align: center;
+    font-size: xx-large;
+    line-height: 25vh;
+}
